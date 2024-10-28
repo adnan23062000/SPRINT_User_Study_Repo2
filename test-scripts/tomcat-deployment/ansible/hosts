@@ -1,5 +1,0 @@
-[tomcat-servers:vars]
-ansible_ssh_private_key_file=./key.pem
-
-[tomcat-servers]
-34.226.200.205
